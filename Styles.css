@@ -1,0 +1,76 @@
+body {
+
+  background: lightblue;
+  font-family: sans-serif;
+  color: black;
+  text-shadow: 0 2px 2px #ccc;
+  margin: 0;
+  padding: 16px;
+}
+
+h2{
+  font-weight: bold;
+  margin: 0;
+}
+
+img{
+
+
+}
+
+#profile-photo{
+  position: absolute;
+  top: 200;
+  left:50%;
+  margin-left: -50px;
+  border-radius: 50%;
+}
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+
+}
+
+header {
+  background: lightblue;
+  border-bottom: 1px solid blue;
+  padding: 15px;
+}
+
+section {
+  background: white;
+  padding: 16px;
+  margin: 16px;
+  border: 1px solid black:
+  box-shadow: 0 2px 4px gray;
+  border-radius: 4px;
+}
+
+nav {
+  border-bottom: 1px solid blue;
+  background: gray;
+  padding: 20px;
+  height: 75px;
+}
+
+header img {
+
+}
+img:hover{
+  color: red;
+  transform: rotateZ(1080deg);
+  transform-origin: 50% 50%;
+}
+
+button {
+  color: red;
+  font-size: 100
+}
+
+nav button{
+  left: 100px;
+}
+
+div{
+
+}
